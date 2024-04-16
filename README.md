@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikha Diwakar</h1>
-<h3 align="center">Passionate about innovation,researching and developing in field of AI/ML & addressing technological difficulties. Currently a second year student at Gautam Buddha University pursuing degree in BTech - Artificial Intelligence, where i have learned the importance of applying classical strategies to modern-day projects. while, currently i am expanding my knowledge in the fields of Data Science and App deployment</h3>
+<h3 align="center">Passionate about innovation,researching and developing in field of AI/ML & addressing technological difficulties. Currently a third year student at Gautam Buddha University pursuing degree in BTech - Artificial Intelligence, where i have learned the importance of applying classical strategies to modern-day projects. while, currently i am expanding my knowledge in the fields of Data Science and App deployment</h3>
 
 <p align="left"> <a href="https://twitter.com/shikhadiwakarr" target="blank"><img src="https://img.shields.io/twitter/follow/shikhadiwakarr?logo=twitter&style=for-the-badge" alt="shikhadiwakarr" /></a> </p>
 
