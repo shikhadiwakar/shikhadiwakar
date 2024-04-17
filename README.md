@@ -1,3 +1,8 @@
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<br>
+<br>
+<br>
+
 ### Hi there, I'm Shikha <a img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <h3 align="center">a passionate third-year BTech student at Gautam Buddha University, specializing in Artificial Intelligence, Generative AI, and Cloud Computing. My journey in this exciting field has ignited a fire within me to innovate, delve into research, and tackle technological challenges head-on.</h3>
 
@@ -5,6 +10,8 @@
 
 - 🌱 I’m currently learning **DSA and MLOps**
 
+- I'm looking to collaborate on **Open Source and Hackathons**
+  
 - 💬 Ask me about **AI/ML , quantum computing, gen. ai and conspiracy theories 👽**
 
 - 📫 How to reach me **shkhdiwakar@gmail.com**
