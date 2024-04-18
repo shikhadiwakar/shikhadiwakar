@@ -3,7 +3,7 @@
 <br>
 <br>
 
-### Hi there, I'm Shikha <a img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there, I'm Shikha ! <a img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 <h3 align="center">a passionate third-year BTech student at Gautam Buddha University, specializing in Artificial Intelligence, Generative AI, and Cloud Computing. My journey in this exciting field has ignited a fire within me to innovate, delve into research, and tackle technological challenges head-on.</h3>
 
 - 🔭 I’m currently working on [BUD 🤖](https://github.com/shikhadiwakar/BUD)
